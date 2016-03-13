@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/08.01.2015 103.jpg"
+	thumbURL="thumbs/08.01.2015 103.jpg"
+	linkURL="images/08.01.2015 103.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 103.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08.01.2015 104.jpg"
+	thumbURL="thumbs/08.01.2015 104.jpg"
+	linkURL="images/08.01.2015 104.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 104.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/08.01.2015 106.jpg"
+	thumbURL="thumbs/08.01.2015 106.jpg"
+	linkURL="images/08.01.2015 106.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 106.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

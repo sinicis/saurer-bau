@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Saurer-Bau"
+	backgroundColor="rgba(190,190,190,1)"
+	textColor="rgba(255,221,0,1)"
+	showOpenButton="false"
+	showExpandButton="false"
+	showThumbsButton="false"
+	useThumbDots="true"
+
+>
+  <image imageURL="images/mini_ 08.01.2015 657.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 657.jpg"
+	linkURL="images/mini_ 08.01.2015 657.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 657.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 658.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 658.jpg"
+	linkURL="images/mini_ 08.01.2015 658.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 658.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 655.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 655.jpg"
+	linkURL="images/mini_ 08.01.2015 655.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 655.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/mini_ 08.01.2015 656.jpg"
+	thumbURL="thumbs/mini_ 08.01.2015 656.jpg"
+	linkURL="images/mini_ 08.01.2015 656.jpg"
+	linkTarget="_blank"
+	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 656.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
