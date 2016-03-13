@@ -11,20 +11,36 @@
 	useThumbDots="true"
 
 >
-  <image imageURL="images/mini_ Feb 2015 479.jpg"
-	thumbURL="thumbs/mini_ Feb 2015 479.jpg"
-	linkURL="images/mini_ Feb 2015 479.jpg"
+  <image imageURL="images/saurer 006 m.jpg"
+	thumbURL="thumbs/saurer 006 m.jpg"
+	linkURL="images/saurer 006 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\3_Strassenabschluss Berger Huenibach\mini_ Feb 2015 479.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\saurer 006 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/mini_ Feb 2015 478.jpg"
-	thumbURL="thumbs/mini_ Feb 2015 478.jpg"
-	linkURL="images/mini_ Feb 2015 478.jpg"
+  <image imageURL="images/27.07.2015 002 m.jpg"
+	thumbURL="thumbs/27.07.2015 002 m.jpg"
+	linkURL="images/27.07.2015 002 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\3_Strassenabschluss Berger Huenibach\mini_ Feb 2015 478.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\27.07.2015 002 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/saurer 005 m.jpg"
+	thumbURL="thumbs/saurer 005 m.jpg"
+	linkURL="images/saurer 005 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\saurer 005 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/27.07.2015 004 m.jpg"
+	thumbURL="thumbs/27.07.2015 004 m.jpg"
+	linkURL="images/27.07.2015 004 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\Umgebungsarbeiten\Kaufmann Hünibach\27.07.2015 004 m.JPG">
+    <title><![CDATA[Kaufmann]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>

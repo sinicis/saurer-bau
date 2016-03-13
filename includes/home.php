@@ -28,8 +28,10 @@ $topicCount     = count($mainTopics);
 </br></br>
 
     <b>
+    <font color="#BEBEBE">
     Flexibel / Dynamisch / Qualit&auml;tsbewusst / Preiswert</br></br>
     Ihre Bauunternehmung aus der Region</br>
+    </font>
     </b>
 
     </br></br>

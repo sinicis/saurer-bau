@@ -1,7 +1,7 @@
 /**
- * Juicebox 1.4.1 Classic Theme
+ * Juicebox 1.4.4 Classic Theme
  *
- * Copyright (c) 2014 Juicebox Inc. All rights reserved.
+ * Copyright (c) 2015 Juicebox Inc. All rights reserved.
  * http://www.juicebox.net
  *
  * BY USING THIS SOFTWARE, YOU AGREE TO THE JUICEBOX TERMS OF USE
@@ -9,7 +9,7 @@
  *
  * Support and Documentation: http://www.juicebox.net/support
  *
- * Build Time: 05/27/2014 03:50:45 PM
+ * Build Time: 06/16/2015 09:32:19 PM
  */
 
 .juicebox-gallery
@@ -48,6 +48,7 @@
 .juicebox-gallery .jb-splash p,
 .juicebox-gallery .jb-splash a,
 .juicebox-gallery .jb-go-back a,
+.juicebox-gallery .jb-idx-thumbnail-show-more a,
 .juicebox-gallery .jb-status-message{
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
@@ -249,15 +250,16 @@ div.jb-area-caption
 .jb-cap-frame .jb-caption {
 	background-color: rgba(0, 0, 0, .3);
 	color: white;
-	text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
 }
 .jb-cap-frame .jbac-number {
 	float: right;
-	color: #ccc;
+	color: #fff;
 	width: 72px;
 	text-align: right;
 	font-size: 13px;
 	cursor:default;
+	margin-top: 6px;
 }
 .jb-caption .jb-caption-title {
 	font-size: 17px;
@@ -300,7 +302,7 @@ p.jb-cap-content {
 	top: 10px;
 	padding: 5px 10px 5px 10px;
 	color: #FFFFFF;
-	text-shadow: 1px 1px 2px rgba(0,0,0,0.5), 0 0 5px rgba(0,0,0,0.2);
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.4), 0 0 5px rgba(0,0,0,0.2);
 	font-size: 18px;
 	outline: none;
 	border: none;
@@ -326,7 +328,7 @@ p.jb-cap-content {
 
 div.jb-bb-bar {
 	float: left;
-	background-color: rgba(0, 0, 0, .5);
+	background-color: rgba(0, 0, 0, .4);
 	padding: 0 4px 0 4px;
 	margin: 0 10px;
 	-moz-border-radius: 3px;
@@ -446,7 +448,7 @@ div.index-navigation.jb-navigation .jbn-nav-button-icon
 	-moz-border-radius: 15px;
 	-webkit-border-radius: 15px;
 	border-radius: 15px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.4);
 }
 
 .jb-flag-msie-bf9 .jb-navigation .jbn-left-button
@@ -462,7 +464,7 @@ div.index-navigation.jb-navigation .jbn-nav-button-icon
 	-moz-border-radius: 14px;
 	-webkit-border-radius: 14px;
 	border-radius: 14px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: rgba(0,0,0,0.4);
 }
 
 .jb-flag-msie-bf9 .jb-navigation .jbn-right-button
@@ -536,7 +538,7 @@ div.jb-go-back
 
 div.jb-go-back-icon-frame
 {
-	background-color: rgba(0, 0, 0, .5);
+	background-color: rgba(0, 0, 0, .4);
 	padding: 0 4px;	/*match div.jb-bb-bar to make them vertically align*/
 }
 
@@ -608,9 +610,9 @@ p.jb-splash-cnt
 	padding: 20px !important;
 	margin: 0 !important;
 	text-shadow: 1px 1px 2px rgba(0,0,0,0.3) !important;
-	font-size: 36px !important;
-	font-weight: normal !important;;
-	letter-spacing: 1px !important;;
+	font-size: 26px !important;
+	font-weight: normal !important;
+	letter-spacing: 1px !important;
 }
 /* Splash 'View Gallery' Text*/
 a.jb-splash-view-glry {
@@ -922,6 +924,28 @@ a.jb-go-back-icon:before
 	content: "";
 }
 
+div.jb-idx-thumbnail-show-more {
+  	padding: 0;
+	margin: 0 0 5px 0;
+}
+
+.jb-idx-thumbnail-show-more a {
+   	text-decoration: none;
+    display: block;
+    text-align: center;
+}
+
+#jb-glry-dlg {
+    z-index: 9999;
+}
+
+@media only screen {
+    @-ms-viewport {width: device-width; initial-scale: 1; user-scalable: no;}
+}
+
+.juicebox-gallery {
+	-ms-touch-action:none;
+}
 .jcbx-glry-classic {
 	background: #222222;
 	color: white;
@@ -951,9 +975,9 @@ a.jb-go-back-icon:before
 	 filter: progid:DXImageTransform.Microsoft.Shadow(Strength=5, Direction=270, Color='#000000');
 	 */
 }
-.jb-idx-title {
+.jb-idx-title, .jb-idx-title textarea, .jb-go-back .jb-go-back-text {
 	font-size: 18px;
-	text-shadow: 1px 1px 2px rgba(0,0,0,0.5), 0 0 5px rgba(0,0,0,0.2);
+	text-shadow: 1px 1px 2px rgba(0,0,0,0.4), 0 0 5px rgba(0,0,0,0.2);
 }
 .jb-idx-thb-list-page-number {
 }

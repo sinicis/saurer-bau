@@ -11,36 +11,44 @@
 	useThumbDots="true"
 
 >
-  <image imageURL="images/mini_ 08.01.2015 657.jpg"
-	thumbURL="thumbs/mini_ 08.01.2015 657.jpg"
-	linkURL="images/mini_ 08.01.2015 657.jpg"
+  <image imageURL="images/DSC_0498 m.jpg"
+	thumbURL="thumbs/DSC_0498 m.jpg"
+	linkURL="images/DSC_0498 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 657.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0498 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/mini_ 08.01.2015 658.jpg"
-	thumbURL="thumbs/mini_ 08.01.2015 658.jpg"
-	linkURL="images/mini_ 08.01.2015 658.jpg"
+  <image imageURL="images/DSC_0510 m.jpg"
+	thumbURL="thumbs/DSC_0510 m.jpg"
+	linkURL="images/DSC_0510 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 658.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0510 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/mini_ 08.01.2015 655.jpg"
-	thumbURL="thumbs/mini_ 08.01.2015 655.jpg"
-	linkURL="images/mini_ 08.01.2015 655.jpg"
+  <image imageURL="images/DSC_0512 m.jpg"
+	thumbURL="thumbs/DSC_0512 m.jpg"
+	linkURL="images/DSC_0512 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 655.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0512 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/mini_ 08.01.2015 656.jpg"
-	thumbURL="thumbs/mini_ 08.01.2015 656.jpg"
-	linkURL="images/mini_ 08.01.2015 656.jpg"
+  <image imageURL="images/DSC_0515 m.jpg"
+	thumbURL="thumbs/DSC_0515 m.jpg"
+	linkURL="images/DSC_0515 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\1_Div. Gaszuleitungen\mini_ 08.01.2015 656.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0515 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0521 m.jpg"
+	thumbURL="thumbs/DSC_0521 m.jpg"
+	linkURL="images/DSC_0521 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\DSC_0521 m.JPG">
+    <title><![CDATA[Werkleitungen Oertli]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>

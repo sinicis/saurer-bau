@@ -11,28 +11,44 @@
 	useThumbDots="true"
 
 >
-  <image imageURL="images/08.01.2015 103.jpg"
-	thumbURL="thumbs/08.01.2015 103.jpg"
-	linkURL="images/08.01.2015 103.jpg"
+  <image imageURL="images/saurer bau 017 m.jpg"
+	thumbURL="thumbs/saurer bau 017 m.jpg"
+	linkURL="images/saurer bau 017 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 103.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 017 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/08.01.2015 104.jpg"
-	thumbURL="thumbs/08.01.2015 104.jpg"
-	linkURL="images/08.01.2015 104.jpg"
+  <image imageURL="images/saurer bau 020 m.jpg"
+	thumbURL="thumbs/saurer bau 020 m.jpg"
+	linkURL="images/saurer bau 020 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 104.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 020 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
     <caption><![CDATA[]]></caption>
   </image>
-  <image imageURL="images/08.01.2015 106.jpg"
-	thumbURL="thumbs/08.01.2015 106.jpg"
-	linkURL="images/08.01.2015 106.jpg"
+  <image imageURL="images/saurer bau 024 m.jpg"
+	thumbURL="thumbs/saurer bau 024 m.jpg"
+	linkURL="images/saurer bau 024 m.jpg"
 	linkTarget="_blank"
-	sourcePath="F:\webdesign\saurer-bau.ch\img\Tiefbau\BKW\Schachtsanierungen Huenibach\08.01.2015 106.JPG">
-    <title><![CDATA[]]></title>
+	sourcePath="G:\web\Fotos Baustellen\mini\saurer bau 024 m.JPG">
+    <title><![CDATA[BKW Gunten]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 212 m.jpg"
+	thumbURL="thumbs/11.11.2015 212 m.jpg"
+	linkURL="images/11.11.2015 212 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 212 m.JPG">
+    <title><![CDATA[BKW Hünibach]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/11.11.2015 450 m.jpg"
+	thumbURL="thumbs/11.11.2015 450 m.jpg"
+	linkURL="images/11.11.2015 450 m.jpg"
+	linkTarget="_blank"
+	sourcePath="G:\web\Fotos Baustellen\mini\11.11.2015 450 m.JPG">
+    <title><![CDATA[BKW Hünibach]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
