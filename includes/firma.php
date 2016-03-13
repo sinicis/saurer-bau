@@ -13,9 +13,9 @@ Das Team kurz vorgestellt:</br></br>
 
 <table width='100%'>
     <tr>
-        <td height='150px' align='center'><img src='../images/no-avatar.png' width='150px' /></td>
-        <td height='150px' align='center'><img src='../images/no-avatar.png' width='150px' /></td>
-        <td height='150px' align='center'><img src='../images/no-avatar.png' width='150px' /></td>
+        <td height='150px' align='center'><img src='../images/people/no-avatar.png' width='150px' /></td>
+        <td height='150px' align='center'><img src='../images/people/no-avatar.png' width='150px' /></td>
+        <td height='150px' align='center'><img src='../images/people/no-avatar.png' width='150px' /></td>
     </tr>
     <tr><td></br></td></tr>
     <tr>
